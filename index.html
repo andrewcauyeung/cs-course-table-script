@@ -1,0 +1,106 @@
+<html>
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <link href="css/custom.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/jquery.csv.min.js"></script>
+    <script src="js/side-nav.js"></script>
+    <script src="js/index-ui.js"></script>
+    <script src="js/course-parse.js"></script>
+  </head>
+  <body>
+    <ul id="slide-out" class="sidenav sidenav-fixed">
+      <li class="logo">
+        <a id="logo-container" href="/" class="brand-logo">
+          <object id="front-page-logo" type="image/jpeg" data="images/logo.jpg"
+            >Image not found</object
+          ></a
+        >
+        <h5 class="title">
+          Computer Science Department Tools
+        </h5>
+      </li>
+      <li>
+        <a href="http://devbf.cs.stonybrook.edu/">Black Friday Staging</a>
+      </li>
+    </ul>
+    <a href="#" data-target="slide-out" class="sidenav-trigger"
+      ><i class="material-icons">menu</i></a
+    >
+    <header>
+      <div class="container">
+        <div class="row">
+          <div class="col s12">
+            <h1 class="header">Course Table Tool</h1>
+          </div>
+        </div>
+      </div>
+    </header>
+    <main>
+      <div class="container">
+        <div class="file-upload">
+          <div class="file-field input-field">
+            <div class="btn">
+              <span>File</span>
+              <input id="input" type="file" multiple />
+            </div>
+            <div class="file-path-wrapper">
+              <input
+                class="file-path validate"
+                type="text"
+                placeholder="Upload one or more files"
+              />
+            </div>
+          </div>
+          <div class="row">
+            <div class="input-field col s6">
+              <select id="semester-select">
+                <option value="" disabled selected>Choose a Semester</option>
+                <option value="Fall">Fall</option>
+                <option value="Spring">Spring</option>
+                <option value="Summer">Summer</option>
+                <option value="Winter">Winter</option>
+              </select>
+              <label>Semester</label>
+            </div>
+            <div class="input-field col s6">
+              <input
+                placeholder="Placeholder"
+                id="year-select"
+                type="text"
+                class="validate"
+              />
+              <label for="year">Year</label>
+            </div>
+          </div>
+          <button
+            class="btn waves-effect waves-light"
+            id="file-submit"
+            type="submit"
+            name="action"
+          >
+            Submit
+            <i class="material-icons right">send</i>
+          </button>
+        </div>
+        <div class="card-container row">
+          <!--3 Cards -->
+        </div>
+      </div>
+      <div id="table-modal" class="modal">
+        <div class="container table-info">
+          <!--Modal Table Container-->
+        </div>
+      </div>
+      <!-- <button data-target="table-modal" class="btn modal-trigger">Modal</button> -->
+    </main>
+  </body>
+</html>

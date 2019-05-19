@@ -1,0 +1,112 @@
+Department,Course Number,Course ID,Course Name,Course Description,Semester 0,Semester 1,Semester 2,Semester 3,Semester 4
+CSE,101,CSE101ROW,CSE101,Introduction to Computational and Algorithmic Thinking,&#10004,&#10004,&#10004,&#10004,&#10004
+CSE,102,CSE102ROW,CSE102,Introduction to Web Design and Programming, ,,&#10004, ,&#10004
+CSE,110,CSE110ROW,CSE110,Introduction to Computer Science, , , , , 
+CSE,114,CSE114ROW,CSE114,Computer Science I,&#10004,&#10004,&#10004,&#10004,&#10004
+CSE,130,CSE130ROW,CSE130,Introduction to Programming in C,&#10004, ,, , 
+CSE,150,CSE150ROW,CSE150,Foundations of Computer Science: Honors,,&#10004, , ,&#10004
+CSE,160,CSE160ROW,CSE160,Computer Science A: Honors, , ,&#10004, , 
+CSE,161,CSE161ROW,CSE161,Lab for Comp Sci A: Honors, , ,&#10004, , 
+CSE,190,CSE190 - CSE 192ROW,CSE190-192,Special Topics in Computer Science,,,,&#10004,
+CSE,191,CSE190 - CSE 192ROW,CSE190-192,Special Topics in Computer Science,,,,&#10004,
+CSE,192,CSE190 - CSE 192ROW,CSE190-192,Special Topics in Computer Science,,,,&#10004,
+CSE,214,CSE214ROW,CSE214,Computer Science II,&#10004,&#10004,&#10004,&#10004,&#10004
+CSE,215,CSE215ROW,CSE215,Foundations of Computer Science,&#10004,&#10004,&#10004,&#10004,&#10004
+CSE,216,CSE216ROW,CSE216, Programming Abstractions,,,&#10004, ,&#10004
+CSE,219,CSE219ROW,CSE219,Computer Science III,&#10004,&#10004,, , 
+CSE,220,CSE220ROW,CSE220,System Fundamentals I, ,&#10004,&#10004, ,&#10004
+CSE,230,CSE230ROW,CSE230,Intermediate Programming in C and C++, ,, , , 
+CSE,260,CSE260ROW,CSE260,Computer Science B: Honors, ,&#10004, , ,&#10004
+CSE,261,CSE261ROW,CSE261,Laboratory for Computer Science B: Honors, ,&#10004, , , 
+CSE,300,CSE300ROW,CSE300,Technical Communications,&#10004,&#10004,&#10004, ,&#10004
+CSE,301,CSE301ROW,CSE301,History of Computing, ,&#10004, , ,&#10004
+CSE,303,CSE303ROW,CSE303,Introduction to the Theory of Computation,&#10004,&#10004,&#10004, ,&#10004
+CSE,304,CSE304ROW,CSE304,Compiler Design, , , , , 
+CSE,305,CSE305ROW,CSE305,Principles of Database Systems,&#10004,&#10004,&#10004, ,&#10004
+CSE,306,CSE306ROW,CSE306,Operating Systems, ,&#10004,&#10004, ,&#10004
+CSE,307,CSE307ROW,CSE307,Principles of Programming Languages,&#10004,&#10004,&#10004, ,&#10004
+CSE,308,CSE308ROW,CSE308,Software Engineering, ,&#10004,&#10004, ,&#10004
+CSE,310,CSE310ROW,CSE310,Computer Networks,&#10004,&#10004,&#10004, ,&#10004
+CSE,311,CSE311ROW,CSE311,Systems Administration, , ,&#10004, , 
+CSE,312,CSE312ROW,CSE312,"Legal, Social, and Ethical Issues in Information Systems", ,&#10004,&#10004,&#10004,&#10004
+CSE,316,CSE316ROW,CSE316,Fundamentals of Software Design,,,, ,&#10004
+CSE,320,CSE320ROW,CSE320,System Fundamentals II, ,&#10004,&#10004, ,&#10004
+CSE,323,CSE323ROW,CSE323,Human Computer Interaction, , ,&#10004, , 
+CSE,325,CSE325ROW,CSE325,Computers and Sculpture, ,, , , 
+CSE,327,CSE327ROW,CSE327,Fundamentals of Computer Vision, ,&#10004, , ,&#10004
+CSE,328,CSE328ROW,CSE328,Fundamentals of Computer Graphics, , ,&#10004, ,&#10004
+CSE,331,CSE331ROW,CSE331,Fundamentals of Computer Security, ,&#10004, , ,&#10004
+CSE,332,CSE332ROW,CSE332,Introduction to Visualization, ,&#10004, , ,&#10004
+CSE,333,CSE333ROW,CSE333,User Interface Development,&#10004,&#10004, , ,&#10004
+CSE,334,CSE334ROW,CSE334,Introduction to Multimedia Systems,&#10004,&#10004,&#10004,&#10004,&#10004
+CSE,336,CSE336ROW,CSE336,Internet Programming, ,&#10004, , ,&#10004
+CSE,337,CSE337ROW,CSE337,Scripting Languages, ,&#10004, , ,&#10004
+CSE,346,CSE346ROW,CSE346,Computer Communications, ,&#10004,&#10004,&#10004, 
+CSE,350,CSE350ROW,CSE350,Theory of Computation: Honors, , ,&#10004, , 
+CSE,351,CSE351ROW,CSE351,Introduction to Data Science,,,,&#10004,
+CSE,352,CSE352ROW,CSE352,Artificial Intelligence, ,&#10004, , ,&#10004
+CSE,353,CSE353ROW,CSE353,Machine Learning, , ,&#10004, , 
+CSE,355,CSE355ROW,CSE355,Computational Geometry, ,&#10004, , ,&#10004
+CSE,356,CSE356ROW,CSE356,Cloud Computing, , ,&#10004, ,&#10004
+CSE,357,CSE357ROW,CSE357,Statistical Methods for Data Science,,,, ,
+CSE,360,CSE360ROW,CSE360,Software Security, , , , , 
+CSE,361,CSE361ROW,CSE361,Web Security, ,, , , 
+CSE,362,CSE362ROW,CSE362,Mobile Security, , , , , 
+CSE,363,CSE363ROW,CSE363,Offensive Security, , ,&#10004, , 
+CSE,364,CSE364ROW,CSE364,Advanced Multimedia Techniques, , , , , 
+CSE,366,CSE366ROW,CSE366,Introduction to Virtual Reality, , , , , 
+CSE,370,CSE370ROW,CSE370,Wireless and Mobile Networking, , , , , 
+CSE,371,CSE371ROW,CSE371,Logic, ,&#10004, , , 
+CSE,373,CSE373ROW,CSE373,Analysis of Algorithms, ,&#10004,&#10004, ,&#10004
+CSE,375,CSE375ROW,CSE375,Concurrency, , , , , 
+CSE,376,CSE376ROW,CSE376,Advanced System Programming in UNIX/C, , , , , 
+CSE,377,CSE377ROW,CSE377,Introduction to Medical Imaging, , , , , 
+CSE,378,CSE378ROW,CSE378,Introduction to Robotics, , ,&#10004, , 
+CSE,380,CSE380ROW,CSE380,Computer Game Programming, , ,&#10004, , 
+CSE,381,CSE381ROW,CSE381,Advanced Game Programming, ,&#10004, , ,&#10004
+CSE,385,CSE385ROW,CSE385,Analysis of Algorithms: Honors, ,&#10004, , ,&#10004
+CSE,390,CSE390 - CSE 394ROW,CSE390-394,Special Topics in Computer Science,&#10004,&#10004,&#10004, ,&#10004
+CSE,391,CSE390 - CSE 394ROW,CSE390-394,Special Topics in Computer Science,&#10004,&#10004,&#10004, ,&#10004
+CSE,392,CSE390 - CSE 394ROW,CSE390-394,Special Topics in Computer Science,&#10004,&#10004,&#10004, ,&#10004
+CSE,393,CSE390 - CSE 394ROW,CSE390-394,Special Topics in Computer Science,&#10004,&#10004,&#10004, ,&#10004
+CSE,394,CSE390 - CSE 394ROW,CSE390-394,Special Topics in Computer Science,&#10004,&#10004,&#10004, ,&#10004
+CSE,408,CSE408ROW,CSE408,Network Security, , , , , 
+CSE,409,CSE409ROW,CSE409,Computer System Security, , , , , 
+CSE,475,CSE475ROW,CSE475,Undergraduate Teaching Practicum, ,&#10004,&#10004, , 
+CSE,487,CSE487ROW,CSE487,Research in Computer Science, ,&#10004,&#10004, , 
+CSE,488,CSE488ROW,CSE488,Internship in Computer Science, ,&#10004,&#10004, , 
+CSE,495,CSE495ROW,CSE495,Senior Honors Research Project I, ,&#10004,&#10004, , 
+CSE,496,CSE496ROW,CSE496,Senior Honors Research Project II, ,&#10004,&#10004, , 
+ISE,102,ISE102ROW,ISE102,Introduction to Web Design and Programming, ,,&#10004, , 
+ISE,108,ISE108ROW,ISE108,Introduction to Programming, , , , , 
+ISE,208,ISE208ROW,ISE208,Intermediate Programming, , , , , 
+ISE,215,ISE215ROW,ISE215,Foundations of Computer Science,&#10004, , , , 
+ISE,218,ISE218ROW,ISE218,Introduction to Computer Organization, ,&#10004, , ,&#10004
+ISE,300,ISE300ROW,ISE300,Technical Communications,&#10004,&#10004,&#10004, , 
+ISE,301,ISE301ROW,ISE301,H: History of Computing, ,&#10004, , , 
+ISE,302,ISE302ROW,ISE302,Professional Ethics of Computer Science, ,, , , 
+ISE,305,ISE305ROW,ISE305,Database Design and Practice,&#10004,&#10004, ,&#10004,&#10004
+ISE,308,ISE308ROW,ISE308,Software Engineering (Crosslisted with CSE308), ,, , , 
+ISE,311,ISE311ROW,ISE311,Systems Administration, , ,&#10004, , 
+ISE,312,ISE312ROW,ISE312,"Legal, Social, and Ethical Issues in Information Systems (Crosslisted with CSE 312)", ,&#10004,&#10004,&#10004,&#10004
+ISE,315,ISE315ROW,ISE315,Database Transaction Processing Systems (Crosslisted with CSE315), , , , , 
+ISE,316,ISE316ROW,ISE316,Introduction to Networking, , ,&#10004, , 
+ISE,317,ISE317ROW,ISE317,Computer Networking II, ,, , , 
+ISE,320,ISE320ROW,ISE320,Information Management, , , , , 
+ISE,321,ISE321ROW,ISE321,Network Administration, ,&#10004, , ,&#10004
+ISE,323,ISE323ROW,ISE323,Human-Computer Interaction, , ,&#10004, , 
+ISE,325,ISE325ROW,ISE325,Computers and Sculpture, ,, , , 
+ISE,331,ISE331ROW,ISE331,Fundamentals of Computer Security, , ,&#10004, , 
+ISE,332,ISE332ROW,ISE332,Introduction to Visualization (Crosslisted with CSE332), ,, , , 
+ISE,333,ISE333ROW,ISE333,User Interface Development,&#10004,&#10004, , , 
+ISE,334,ISE334ROW,ISE334,Introduction to Multimedia Systems (Crosslisted with CSE334),&#10004,&#10004,&#10004,&#10004, 
+ISE,337,ISE337ROW,ISE337,Scripting Languages (Crosslisted with CSE337), ,, , ,&#10004
+ISE,340,ISE340ROW,ISE340,Design of Computer Games,&#10004,&#10004, ,&#10004,&#10004
+ISE,364,ISE364ROW,ISE364,Advanced Multimedia Techniques (Crosslisted with CSE364), , , , , 
+ISE,377,ISE377ROW,ISE377,Introduction to Medical Imaging, , , , , 
+ISE,378,ISE378ROW,ISE378,Introduction to Robotics, , , , , 
+ISE,390,ISE390-391ROW,ISE390-392,Special Topics in Information Systems, , ,&#10004, , 
+ISE,391,ISE390-391ROW,ISE390-392,Special Topics in Information Systems, , ,&#10004, , 
+ISE,475,ISE475ROW,ISE475,Undergraduate Teaching Practicum (Crosslisted with CSE475), ,&#10004,&#10004, , 
+ISE,487,ISE487ROW,ISE487,Research in Information Systems (Crosslisted with CSE487), ,&#10004,&#10004, , 
+ISE,488,ISE488ROW,ISE488,Information Systems Internship (Crosslisted with CSE488), ,&#10004,&#10004, , 
